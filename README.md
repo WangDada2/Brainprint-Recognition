@@ -1,4 +1,4 @@
-# Brainprint Recognition via Stable SSVEP Space-Frequency Energy Distribution
+# Brainprint Recognition Based on the Stable SSVEP Space-Frequency Energy Distribution
 
 This repository provides a sample implementation demonstrating **identity recognition** based on the stable spatial-frequency energy distribution of Steady-State Visual Evoked Potentials (SSVEP).
 
