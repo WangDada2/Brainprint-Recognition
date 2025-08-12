@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr  1 16:29:21 2022
+function: PPER function
 
-@author: ZJLAB
+author: Lijie Wang
+
+date: 2023.0425
 """
 
 # 1 import library
